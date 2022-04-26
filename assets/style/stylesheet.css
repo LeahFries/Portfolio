@@ -1,0 +1,15 @@
+#about, #work, #contact{background-color: rgb(134, 232, 151);}
+.image{border-radius: 20%;}
+
+header
+{text-align: center;
+width: 100%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 130%;
+background-color: rgb(113, 248, 248);}
+
+body
+{
+    text-align: center;
+
+}
